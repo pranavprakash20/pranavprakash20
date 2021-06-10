@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pranavprakash20&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavprakash20&theme=dark" />
 
 <!--
 **pranavprakash20/pranavprakash20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
