@@ -11,6 +11,9 @@
 <a href="https://github.com/pranavprakash20/most-used-languages">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavprakash20&theme=dark" />
 </a>
+<a href="https://github.com/pranavprakash20/wakatime">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=pranavprakash20&theme=dark" />
+</a>
 <!--
 **pranavprakash20/pranavprakash20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
