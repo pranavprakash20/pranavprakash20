@@ -11,7 +11,7 @@
 <a href="https://github.com/pranavprakash20/most-used-languages">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavprakash20&theme=dark" />
 </a>
-<a href="https://github.com/pranavprakash20/wakatime">
+<a href="https://github.com/pranavprakash20/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=pranavprakash20&theme=dark" />
 </a>
 <!--
