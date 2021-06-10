@@ -5,10 +5,12 @@
 - 🤔 I’m looking for help with NP-complete problems, optimization using AI, CI/CD
 - 💬 Ask me about python, photograpgy, cinema, basics of CI, evolutionary algorithms (DE)
 - 📫 How to reach me: pranavprakash20@gmail.com
-
+<a href="https://github.com/pranavprakash20/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pranavprakash20&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavprakash20&theme=dark" />
-
+</a>
+<a href="https://github.com/pranavprakash20/most-used-languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavprakash20&theme=dark" />
+</a>
 <!--
 **pranavprakash20/pranavprakash20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
