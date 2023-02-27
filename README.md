@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on python, glusto-tests, jarvis, DE, ceph-ci...
+- 🔭 I’m currently working on python jarvis, DE, ceph-ci...
 - 🌱 I’m currently learning Python, GO, Ansible and few more which might look silly to you :) 
 - 👯 I’m looking to collaborate on anything that could challenge me and help me improve my skill set
 - 🤔 I’m looking for help with NP-complete problems, optimization using AI, CI/CD
