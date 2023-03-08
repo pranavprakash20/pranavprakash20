@@ -13,3 +13,4 @@
 </a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pranavprakash20)](https://github.com/pranavprakash20/github-readme)
