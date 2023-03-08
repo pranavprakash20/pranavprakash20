@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on python jarvis, DE, ceph-ci...
+- 🔭 I’m currently working on python, redhat/ceph-ci, DE...
 - 🌱 I’m currently learning Python, GO, Kubernetes and few more which might look silly to you :) 
 - 👯 I’m looking to collaborate on anything that could challenge me and help me improve my skill set
 - 🤔 I’m looking for help with NP-complete problems, optimization using AI, CI/CD, Docker technologies etc
