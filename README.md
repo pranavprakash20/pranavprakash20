@@ -11,6 +11,8 @@
 <a href="https://github.com/pranavprakash20/most-used-languages">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavprakash20&theme=dark" />
 </a>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
