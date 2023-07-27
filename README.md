@@ -5,15 +5,13 @@
 - 🤔 I’m looking for help with NP-complete problems, optimization using AI, CI/CD, Docker technologies etc
 - 💬 Ask me about python, photography, cinema, CI, evolutionary algorithms (DE)
 - 📫 How to reach me: pranavprakash20@gmail.com
-<a href="https://github.com/pranavprakash20/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=pranavprakash20&theme=dracula" />
-</a>
+
 <a href="https://github.com/pranavprakash20/most-used-languages">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavprakash20&theme=dark" />
 </a>
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavprakash20&show=reviews)
-[![Pranav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/pranavprakash20/github-readme-stats)
+[![Pranav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranavprakash20)](https://github.com/pranavprakash20/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pranavprakash20)](https://git.io/streak-stats)
 
