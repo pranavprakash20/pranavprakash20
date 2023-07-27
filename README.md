@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on python, redhat/ceph-ci, DE...
+- 🔭 I’m currently working on python, redhat/ceph-ci, Ceph, DE...
 - 🌱 I’m currently learning Python, GO, Kubernetes and few more which might look silly to you :) 
 - 👯 I’m looking to collaborate on anything that could challenge me and help me improve my skill set
 - 🤔 I’m looking for help with NP-complete problems, optimization using AI, CI/CD, Docker technologies etc
@@ -9,9 +9,7 @@
 <a href="https://github.com/pranavprakash20/most-used-languages">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavprakash20&theme=dark" />
 </a>
-
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavprakash20&show=reviews)
-[![Pranav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranavprakash20)](https://github.com/pranavprakash20/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pranavprakash20)](https://git.io/streak-stats)
 
